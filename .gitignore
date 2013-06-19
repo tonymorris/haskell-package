@@ -1,11 +1,15 @@
 *~
 *#*
 
-# CABAL
-dist
+# cabal
+/dist
+
+# cabal-dev
+/cabal-dev
 
 # Haskell Program Coverage
-.hpc
+/.hpc
+*.tix
 
 # Leksah
 *.lkshs

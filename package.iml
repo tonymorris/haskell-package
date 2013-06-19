@@ -5,8 +5,14 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/example/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.hpc" />
+      <excludeFolder url="file://$MODULE_DIR$/cabal-dev" />
       <excludeFolder url="file://$MODULE_DIR$/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/example/cabal-dev" />
+      <excludeFolder url="file://$MODULE_DIR$/example/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/test/.hpc" />
+      <excludeFolder url="file://$MODULE_DIR$/test/dist" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

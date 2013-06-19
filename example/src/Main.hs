@@ -1,6 +1,6 @@
 module Main where
 
-import M.Demo
+import M.Example
 
 main ::
   IO ()

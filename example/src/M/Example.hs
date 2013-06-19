@@ -1,4 +1,4 @@
-module M.Demo where
+module M.Example where
 
 import M
 
