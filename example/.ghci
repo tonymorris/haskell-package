@@ -1,0 +1,3 @@
+:set -isrc -i../src
+:set prompt ">> "
+:set -Wall
