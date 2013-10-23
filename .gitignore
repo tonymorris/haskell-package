@@ -14,8 +14,8 @@
 *.lkshs
 
 # Intellij IDEA
-/.idea
-/*.iml
+/.idea/workspace.xml
+/.idea/ant.xml
 
 # ctags
 TAGS
