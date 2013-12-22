@@ -36,6 +36,9 @@ library
   hs-source-dirs:
                     src
 
+  default-extensions:
+                    NoImplicitPrelude
+
   exposed-modules:
                     M
 
